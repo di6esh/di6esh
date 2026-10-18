@@ -7,15 +7,6 @@
   <br><br>
   Building practical projects at the intersection of software, AI, data, and design.
   <br><br>
-  <a href="https://github.com/di6esh?tab=repositories">Explore My Projects</a>
-  &nbsp; • &nbsp;
-  <a href="https://linkedin.com/in/di6esh">LinkedIn</a>
-  &nbsp; • &nbsp;
-  <a href="mailto:di6esh@gmail.com">Email</a>
-  <br><br>
-  <a href="https://linkedin.com/in/di6esh">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
-  </a>
 </p>
 
 ---
@@ -116,8 +107,8 @@ An IoT-based system using sensors and microcontrollers for real-time temperature
   <a href="https://github.com/di6esh">
     <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
   </a>
-  <a href="https://linkedin.com/in/di6esh">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+  <a href="https://www.linkedin.com/in/di6esh/">
+  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
   </a>
   <a href="mailto:di6esh@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
