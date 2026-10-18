@@ -1,70 +1,63 @@
 # 👋 Hey, I'm Dibesh
 
 <p align="center">
-  <strong>AI & Data Science Student · Aspiring Software Developer</strong>
-  <br>
-  Python • Java • DSA • AI/ML
+  <strong>AI & Data Science Student | Aspiring Software Developer</strong>
   <br><br>
-  Building projects, solving problems, and learning by doing.
-</p>
-
-<p align="center">
-  <a href="https://github.com/di6esh?tab=repositories">Explore My Repositories</a>
-  &nbsp; • &nbsp;
-  <a href="https://linkedin.com/in/di6esh">LinkedIn</a>
-  &nbsp; • &nbsp;
+  <code>Python</code> &nbsp; <code>Java</code> &nbsp; <code>DSA</code> &nbsp; <code>AI/ML</code> &nbsp; <code>FSD</code> &nbsp; <code>UI/UX</code>
+  <br><br>
+  Building practical projects at the intersection of software, AI, and design.
+  <br><br>
+  <a href="https://github.com/di6esh?tab=repositories">Explore My Projects</a> ·
+  <a href="https://linkedin.com/in/di6esh">LinkedIn</a> ·
   <a href="mailto:di6esh@gmail.com">Email</a>
 </p>
 
 ---
 
-## `$ whoami`
+## 👨‍💻 About Me
 
-I'm an Artificial Intelligence and Data Science student interested in software development, artificial intelligence, and data-driven applications.
+I'm an Artificial Intelligence and Data Science student interested in developing useful software, exploring AI applications, and creating clean, user-friendly interfaces.
 
-- 🎓 B.Tech in AI & Data Science — 2023–2027
-- 💻 Working with Python and learning Java
-- 🧠 Practising Data Structures & Algorithms
-- 🚀 Interested in building useful, practical software
+- 🎓 B.Tech in Artificial Intelligence and Data Science (2023–2027)
+- 💻 Exploring Full Stack Development
+- 🎨 Interested in UI/UX Design and user-centered interfaces
+- 🧠 Practising Python, Java, and Data Structures & Algorithms
+- 🤖 Exploring AI, Machine Learning, and Data Analytics
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
-</p>
-
-**Areas I'm exploring:** Machine Learning · Deep Learning · NLP · Data Analytics · Full Stack Development
+| Area | Skills |
+| --- | --- |
+| Programming | Python, Java (Basic) |
+| Full Stack Development | HTML, CSS, frontend and backend fundamentals |
+| UI/UX Design | Figma, wireframing, prototyping, interface design |
+| AI & Machine Learning | ML fundamentals, Deep Learning, NLP |
+| Data Analytics | Power BI, Tableau, Data Visualization |
+| Tools | Git, GitHub, Jupyter Notebook |
 
 ---
 
 ## 🚀 Selected Projects
 
-### 🤖 AI Student Assistant
-A web application designed to help students with academic queries through an interactive chatbot.
+**🤖 AI Student Assistant**  
+A web-based chatbot designed to answer student queries and provide academic support.
 
-### 🌱 AI Seed Advisor
+**🌱 AI Seed Advisor**  
 A crop recommendation prototype based on environmental conditions and user inputs.
 
-### 📱 To-Do & Expense Tracker
+**📱 To-Do List & Expense Tracker**  
 An Android application for task management, expense tracking, and monthly reports.
 
-### 💬 Sentiment Analysis
-A Python-based NLP project for classifying feedback as positive, negative, or neutral.
+**💬 Sentiment Analysis System**  
+A Python NLP project that classifies feedback as positive, negative, or neutral.
 
-### ✍️ Handwritten Character Recognition
+**✍️ Handwritten Character Recognition**  
 A deep learning project using image preprocessing and CNN techniques.
 
-### 🌡️ IoT Temperature Monitoring
-A sensor-based system for monitoring temperature in real time.
+**🌡️ IoT Temperature Monitoring**  
+An IoT-based system for real-time temperature monitoring.
 
 ---
 
@@ -76,12 +69,13 @@ A sensor-based system for monitoring temperature in real time.
 
 ---
 
-## 🎯 Currently Working On
+## 🎯 Currently Focusing On
 
-- Improving Python problem-solving
-- Learning Java and DSA fundamentals
-- Building and documenting projects
-- Strengthening my software development skills
+- Strengthening Python and Java problem-solving
+- Practising Data Structures & Algorithms
+- Improving Full Stack Development skills
+- Designing cleaner, more user-friendly interfaces
+- Building and documenting practical projects
 
 ---
 
