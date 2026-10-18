@@ -1,41 +1,70 @@
-# Hey, I'm Dibesh 👋
+# 👋 Hey, I'm Dibesh
 
-### AI & Data Science Student | Python | Java | DSA
+<p align="center">
+  <strong>AI & Data Science Student · Aspiring Software Developer</strong>
+  <br>
+  Python • Java • DSA • AI/ML
+  <br><br>
+  Building projects, solving problems, and learning by doing.
+</p>
 
-I enjoy learning by building practical projects and exploring how software, AI, and data can solve real-world problems.
-
-- 🎓 B.Tech in Artificial Intelligence and Data Science (2023–2027)
-- 💻 Interested in AI, Machine Learning, Data Analytics, and Software Development
-- 🧠 Currently improving my Python, Java, and Data Structures & Algorithms skills
-- 🛠️ Building projects to strengthen my development skills
-
----
-
-## 🧰 Tech Stack
-
-**Languages:** Python, Java (Basic)
-
-**AI & Data:** Machine Learning, Deep Learning, NLP, Data Visualization
-
-**Development:** HTML, CSS, Full Stack Development (Basic), Android Development
-
-**Tools:** Git, GitHub, Tableau, Power BI, Jupyter Notebook, Figma
+<p align="center">
+  <a href="https://github.com/di6esh?tab=repositories">Explore My Repositories</a>
+  &nbsp; • &nbsp;
+  <a href="https://linkedin.com/in/di6esh">LinkedIn</a>
+  &nbsp; • &nbsp;
+  <a href="mailto:di6esh@gmail.com">Email</a>
+</p>
 
 ---
 
-## 🚀 Projects
+## `$ whoami`
 
-| Project | Description |
-| --- | --- |
-| 🤖 AI Student Assistant | Web-based chatbot for student queries and academic support |
-| 🌱 AI Seed Advisor | Crop recommendation prototype using environmental conditions and user inputs |
-| 📱 To-Do & Expense Tracker | Android app for task management, expenses, and monthly reports |
-| ✍️ Handwritten Character Recognition | Deep learning project using image preprocessing and CNNs |
-| 💬 Sentiment Analysis | Python NLP system that classifies feedback sentiment |
-| 🌡️ IoT Temperature Monitoring | Sensor-based real-time temperature monitoring system |
-| 💊 Pharmacy Inventory Management | Medicine stock tracking and low-stock alerts |
+I'm an Artificial Intelligence and Data Science student interested in software development, artificial intelligence, and data-driven applications.
 
-*Project descriptions are summaries. Visit each project repository for its implementation and details.*
+- 🎓 B.Tech in AI & Data Science — 2023–2027
+- 💻 Working with Python and learning Java
+- 🧠 Practising Data Structures & Algorithms
+- 🚀 Interested in building useful, practical software
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+</p>
+
+**Areas I'm exploring:** Machine Learning · Deep Learning · NLP · Data Analytics · Full Stack Development
+
+---
+
+## 🚀 Selected Projects
+
+### 🤖 AI Student Assistant
+A web application designed to help students with academic queries through an interactive chatbot.
+
+### 🌱 AI Seed Advisor
+A crop recommendation prototype based on environmental conditions and user inputs.
+
+### 📱 To-Do & Expense Tracker
+An Android application for task management, expense tracking, and monthly reports.
+
+### 💬 Sentiment Analysis
+A Python-based NLP project for classifying feedback as positive, negative, or neutral.
+
+### ✍️ Handwritten Character Recognition
+A deep learning project using image preprocessing and CNN techniques.
+
+### 🌡️ IoT Temperature Monitoring
+A sensor-based system for monitoring temperature in real time.
 
 ---
 
@@ -47,19 +76,15 @@ I enjoy learning by building practical projects and exploring how software, AI, 
 
 ---
 
-## 🎯 Currently Learning
+## 🎯 Currently Working On
 
-- Python problem-solving and Java fundamentals
-- Data Structures & Algorithms
-- Building practical software projects
-- AI and Machine Learning fundamentals
-
----
-
-## 🤝 Connect With Me
-
-[LinkedIn](https://linkedin.com/in/di6esh) · [GitHub](https://github.com/di6esh) · [Email](mailto:di6esh@gmail.com)
+- Improving Python problem-solving
+- Learning Java and DSA fundamentals
+- Building and documenting projects
+- Strengthening my software development skills
 
 ---
 
-*Learning by building projects.*
+<p align="center">
+  <em>Learning by building projects.</em>
+</p>
