@@ -7,9 +7,15 @@
   <br><br>
   Building practical projects at the intersection of software, AI, data, and design.
   <br><br>
-  <a href="https://github.com/di6esh?tab=repositories">Explore My Projects</a> ·
-  <a href="https://linkedin.com/in/di6esh">LinkedIn</a> ·
+  <a href="https://github.com/di6esh?tab=repositories">Explore My Projects</a>
+  &nbsp; • &nbsp;
+  <a href="https://linkedin.com/in/di6esh">LinkedIn</a>
+  &nbsp; • &nbsp;
   <a href="mailto:di6esh@gmail.com">Email</a>
+  <br><br>
+  <a href="https://linkedin.com/in/di6esh">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+  </a>
 </p>
 
 ---
@@ -43,43 +49,52 @@ I'm an Artificial Intelligence and Data Science student interested in software d
 ## 🚀 Selected Projects
 
 ### 🤖 AI Student Assistant
+
 A web-based chatbot designed to answer student queries and provide academic support through an interactive interface.
 
 ### 🌱 AI Seed Advisor
+
 A crop recommendation prototype that suggests suitable crops based on environmental conditions and user inputs.
 
 ### 🌾 AI-Based Crop Yield Prediction
+
 An AI/ML project focused on predicting crop yields using relevant agricultural and environmental data.
 
 ### 💊 ML-Based Pharmacy Inventory Management
+
 A machine learning-based pharmacy inventory project focused on medicine stock monitoring and inventory management.
 
 ### 📊 360-Degree Feedback Management System
+
 A Flask-based feedback management application for employee and peer evaluations, performance ratings, and PDF report generation.
 
 ### 💬 Sentiment Analysis System
+
 A Python-based NLP project that classifies user feedback as positive, negative, or neutral.
 
 ### 📱 To-Do List & Expense Tracker
+
 A native Android application for task management, expense tracking, monthly report generation, and local database support.
 
 ### ✍️ Handwritten Character Recognition
+
 A deep learning project using image preprocessing and Convolutional Neural Networks (CNNs) to recognize handwritten characters.
 
 ### 🌡️ IoT Temperature Monitoring
+
 An IoT-based system using sensors and microcontrollers for real-time temperature monitoring.
 
 ---
 
 ## 💼 Experience
 
-- **Full Stack Development Intern** — CodeSapiens  
+- **Full Stack Development Intern — CodeSapiens**  
   Contributed to an AI-powered Student Assistant web application, working with frontend and backend components.
 
-- **UI/UX Design Intern** — NoviTech R&D Pvt. Ltd.  
+- **UI/UX Design Intern — NoviTech R&D Pvt. Ltd.**  
   Designed user interfaces and prototypes using Figma.
 
-- **Data Visualization Virtual Intern** — Forage  
+- **Data Visualization Virtual Intern — Forage**  
   Analyzed datasets and created interactive Tableau dashboards to communicate data-driven insights.
 
 ---
@@ -98,9 +113,15 @@ An IoT-based system using sensors and microcontrollers for real-time temperature
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/di6esh">GitHub</a> ·
-  <a href="https://linkedin.com/in/di6esh">LinkedIn</a> ·
-  <a href="mailto:di6esh@gmail.com">Email</a>
+  <a href="https://github.com/di6esh">
+    <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+  </a>
+  <a href="https://linkedin.com/in/di6esh">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+  </a>
+  <a href="mailto:di6esh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
