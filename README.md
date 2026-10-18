@@ -107,13 +107,13 @@ An IoT-based system using sensors and microcontrollers for real-time temperature
   <a href="https://github.com/di6esh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  &nbsp; • &nbsp;
+  &nbsp; <sup>•</sup> &nbsp;
   <a href="https://www.linkedin.com/in/di6esh/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  &nbsp; • &nbsp;
-  <a href="mailto:di6esh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  &nbsp; <sup>•</sup> &nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=di6esh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
